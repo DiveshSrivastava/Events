@@ -1,0 +1,6 @@
+First Step:-
+
+$ git push -v DiveshRep master
+
+
+DiveshRep is urs githum url
